@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32154" started-at="2020-07-30T10:40:37 IST" finished-at="2020-07-30T10:41:09 IST">
+  <suite name="Default suite" duration-ms="37200" started-at="2020-08-02T18:54:34 IST" finished-at="2020-08-02T18:55:11 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32154" started-at="2020-07-30T10:40:37 IST" finished-at="2020-07-30T10:41:09 IST">
-      <class name="testNg.Chord">
-        <test-method status="PASS" signature="openapp()[pri:0, instance:testNg.Chord@1d16f93d]" name="openapp" is-config="true" duration-ms="27078" started-at="2020-07-30T10:40:37 IST" finished-at="2020-07-30T10:41:04 IST">
+    <test name="Default test" duration-ms="37200" started-at="2020-08-02T18:54:34 IST" finished-at="2020-08-02T18:55:11 IST">
+      <class name="com.hrms.TestScripts.TC_001">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.hrms.TestScripts.TC_001@2b2948e2]" name="login" duration-ms="37044" started-at="2020-08-02T18:54:34 IST" finished-at="2020-08-02T18:55:11 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openapp -->
-        <test-method status="PASS" signature="testKeys_Chord()[pri:0, instance:testNg.Chord@1d16f93d]" name="testKeys_Chord" duration-ms="4965" started-at="2020-07-30T10:41:04 IST" finished-at="2020-07-30T10:41:09 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testKeys_Chord -->
-      </class> <!-- testNg.Chord -->
+        </test-method> <!-- login -->
+      </class> <!-- com.hrms.TestScripts.TC_001 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
