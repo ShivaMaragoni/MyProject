@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Application is Opened]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48197" started-at="2020-07-27T09:37:09 IST" finished-at="2020-07-27T09:37:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48197" started-at="2020-07-27T09:37:09 IST" finished-at="2020-07-27T09:37:57 IST">
+      <class name="com.testscripts.TC_001">
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:com.testscripts.TC_001@6f1fba17]" name="tc_001" duration-ms="48037" started-at="2020-07-27T09:37:09 IST" finished-at="2020-07-27T09:37:57 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is Opened]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+      </class> <!-- com.testscripts.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
