@@ -1,0 +1,42 @@
+2020-07-10 20:02:25,673 INFO  [Log] ******started execution******* 
+2020-07-10 20:02:43,591 INFO  [Log] Application is opened 
+2020-07-10 20:03:01,888 INFO  [Log] Application is closed 
+2020-07-10 20:03:01,889 INFO  [Log] ****End excetion***** 
+2020-07-10 20:07:17,083 INFO  [Log] ******started execution******* 
+2020-07-10 20:07:40,059 INFO  [Log] Application is opened 
+2020-07-10 20:07:54,101 INFO  [Log] Application is closed 
+2020-07-10 20:07:54,102 INFO  [Log] ****End excetion***** 
+2020-07-10 20:17:13,852 INFO  [Log] ******started execution******* 
+2020-07-10 20:17:33,640 INFO  [Log] Application is opened 
+2020-07-10 20:17:50,025 INFO  [Log] Application is closed 
+2020-07-10 20:17:50,025 INFO  [Log] ****End excetion***** 
+2020-07-10 20:21:32,002 INFO  [Log] ******started execution******* 
+2020-07-10 20:21:51,261 INFO  [Log] Application is opened 
+2020-07-10 20:22:08,224 INFO  [Log] Application is closed 
+2020-07-10 20:22:08,224 INFO  [Log] ****End excetion***** 
+2020-07-10 20:24:57,702 INFO  [Log] ******started execution******* 
+2020-07-10 20:25:20,361 INFO  [Log] Application is opened 
+2020-07-10 20:25:33,513 INFO  [Log] Application is closed 
+2020-07-10 20:25:33,513 INFO  [Log] ****End excetion***** 
+2020-07-10 20:32:42,559 INFO  [Log] ******started execution******* 
+2020-07-10 20:33:03,138 INFO  [Log] Application is opened 
+2020-07-10 20:33:06,219 INFO  [Log] login confirm 
+2020-07-10 20:33:14,309 INFO  [Log] logout confirm 
+2020-07-10 20:33:19,738 INFO  [Log] Application is closed 
+2020-07-10 20:33:19,738 INFO  [Log] ****End execution***** 
+2020-07-10 20:34:34,675 INFO  [Log] ******started execution******* 
+2020-07-10 20:34:46,714 INFO  [Log] Application is opened 
+2020-07-10 20:34:49,730 INFO  [Log] login confirm 
+2020-07-10 20:34:58,415 INFO  [Log] logout confirm 
+2020-07-10 20:35:02,708 INFO  [Log] Application is closed 
+2020-07-10 20:35:02,709 INFO  [Log] ****End execution***** 
+2020-07-12 11:50:44,889 INFO  [Log] ******started execution******* 
+2020-07-12 19:26:56,261 INFO  [Log] ******started execution******* 
+2020-07-12 19:27:33,142 INFO  [Log] Application is opened 
+2020-07-12 19:27:33,142 INFO  [Log] log4j_opened 
+2020-07-12 19:27:36,175 INFO  [Log] login confirm 
+2020-07-12 19:27:57,391 INFO  [Log] log4j_login 
+2020-07-12 19:28:24,132 INFO  [Log] log4j_Add button 
+2020-07-12 19:28:24,979 INFO  [Log] logout confirm 
+2020-07-12 19:28:31,820 INFO  [Log] Application is closed 
+2020-07-12 19:28:31,820 INFO  [Log] ****End execution***** 
